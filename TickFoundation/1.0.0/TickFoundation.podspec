@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author       = { "dida-logistics-mobile" => "976382156@qq.com" }
 
   #s.platform     = :ios
-  s.platform     = :ios, "9.0"
+  s.platform     = :ios, "7.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.dependency 'MBProgressHUD', '~>0.9'
   s.dependency 'Masonry'
   s.dependency 'SDWebImage'
-  s.dependency 'BaiduMobStat', '~> 4.6.5'
+  s.dependency 'BaiduMobStat'
   s.dependency 'AliyunOSSiOS', '~> 2.6.0'
 
 end
