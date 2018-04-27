@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = "TickFoundation"
   s.description  = "dida-logistics-mobile TickFoundation for ios"
                    
-  s.homepage     = "https://github.com/dida-logistics-mobile/TickFoundation-IOS"
+  s.homepage     = "https://github.com/dida-logistics-mobile/spec-ios"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "dida-logistics-mobile" => "976382156@qq.com" }
 
